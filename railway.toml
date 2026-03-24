@@ -1,0 +1,10 @@
+# Railway Configuration for Python 3.11 Runtime
+
+[runtime]
+  python = "3.11"
+
+[build]
+  commands = ["pip install -r requirements.txt"]
+
+[start]
+  command = "python bot.py"
