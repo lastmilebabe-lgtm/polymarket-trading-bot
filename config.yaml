@@ -1,7 +1,0 @@
-default_token_id: ""   # leave empty if you always pass token_id manually
-safe_address: "0x53790968772Ab2aF5670BbAF3A69E2eCe8a17676"   # from polymarket.com/settings
-# builder section only if you're using gasless
-# builder:
-#   api_key: "..."
-#   api_secret: "..."
-#   api_passphrase: "..."
